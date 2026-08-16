@@ -1,0 +1,4 @@
+this is a sample file
+for the learning of the file handling using the python
+ Yashant is also goodOm is good
+ Om is good
